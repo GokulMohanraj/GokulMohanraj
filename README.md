@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GokulMohanraj
-- 👀 I’m interested in creating new application coding is my passion
+- 👀 coding is my passion
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me - thegokulraj@gmail.com
 
