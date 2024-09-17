@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GokulMohanraj
 - 👀 coding is my passion
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Manual testing & ETL testing
 - 📫 How to reach me - thegokulraj@gmail.com
 
 <!---
